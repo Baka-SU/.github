@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://raw.githubusercontent.com/Baka-SU/BakaSU/refs/heads/rename-project/docs/BakaSU_Full.svg" width="300">
+<img src="https://raw.githubusercontent.com/Baka-SU/BakaSU/refs/heads/main/docs/BakaSU_Full.svg" width="300" />
 
 # BakaSU
 
